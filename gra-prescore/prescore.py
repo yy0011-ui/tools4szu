@@ -8,7 +8,7 @@ os.environ['NO_PROXY'] = 'ehall.szu.edu.cn'
 
 # 复制自己字符串格式的的Cookie过来，对应填进去，会自动解析成字典
 
-cookie = ''
+cookie = 'EMAP_LANG=zh; THEME=cherry; _WEU=O5AaD9acl9rRzEjhg0InS4eRPYmK2LXxmT56r5BlQxIdBz2wzzFzTg82e4BIEyYA1pePTJujMprOvgg33rfQIqWpNIq6VgzSsfJzBo5ag1lBTuMMN4oBSAQxvYA5UyXjllhYTI7DlBOTh8vQ0*nGC4qE_Dl7wDHH_v5aaFezmaYr1R**1MS8G4Ec9qx1dZLv; amp.locale=undefined; insert_cookie=38189586; MOD_AUTH_CAS=MOD_AUTH_ST-4026046-q9KPXedkuMg0ggcp1rQmSwGFdegciapserver4; JSESSIONID=mwxowLlOOu40FeIAKmkM54BjY0I31w0_lMpCA_8-d-kBqvXNtqXX!-874731113; asessionid=39b04538-9535-45a9-9b24-d533b1f29863; route=74c501c1243c125f7a9379cabda1364b'
 
 headers = {
     'Accept': 'application/json, text/javascript, */*; q=0.01',
